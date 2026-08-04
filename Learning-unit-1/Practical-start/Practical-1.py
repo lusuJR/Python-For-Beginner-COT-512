@@ -1,6 +1,6 @@
-# You are hired as a junior pyhton developer 
-# Your line manmager task you to develop a student registration program using python:
-#With the following attributte : name, icas_number, module_mark, assigment_mark
+# You are hired as a junior python developer 
+# Your line manager task you to develop a student registration program using python:
+#With the following attribute : name, icas_number, module_mark, assigment_mark
 #the program must prompt the adminstrator to enter the students details:;
 
 #Your Output: 
